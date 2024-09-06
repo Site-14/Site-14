@@ -24,7 +24,8 @@ See [LICENSE-MIT](./LICENSE-MIT.txt).
 ### Assets
 
 ALL SCP RELATED ASSETS ARE LICENSED UNDER CC-BY-SA AND MUST BE CREDITED AS SUCH!
-Details may be found here: https://scp-wiki.wikidot.com/licensing-guide
+Details may be found here: 
+https://scp-wiki.wikidot.com/licensing-guide
 
 Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise.
 Assets have their license and the copyright in the metadata file.
